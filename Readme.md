@@ -7,7 +7,7 @@ This is the frontend hosted on Vercel for my AI Internship Task submission at **
 ## 🚀 Live Demo
 
 🖥 Try the full app here:  
-👉 [Click to launch chatbot](https://harsh-sharma-wasserstoff-genai.hf.space)
+👉 [Click to launch chatbot](https://huggingface.co/spaces/TechTapestry/wasserstoff-genai)
 
 ---
 
@@ -31,7 +31,7 @@ The actual AI-powered chatbot is built using:
 - FAISS for semantic search
 
 Source code:  
-👉 [GitHub Repository – AI App](https://github.com/YOUR-GITHUB-USERNAME/YOUR-AI-REPO)
+👉 [GitHub Repository – AI App](https://github.com/headhunter25112/harsh-sharma-wasserstoff-AiInternTask)
 
 ---
 
